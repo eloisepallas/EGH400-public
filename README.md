@@ -10,5 +10,4 @@
 
 ### run themes.py to visualise the findings in different graphs
 
-### examplepres.py was an investigation of NRCLex Model and RoBERTa GoEmotions, does not need to be run 
-### for the full emotion analysis model
+### examplepres.py was an investigation of NRCLex Model and RoBERTa GoEmotions, does not need to be run for the full emotion analysis model
